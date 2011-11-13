@@ -1,0 +1,13 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/003-Pod.t
+t/500-Catalyst-Helper-Model.t
+lib/Catalyst/Helper/Model/UserConfig.pm
+t/User/Config/Test/Schema/Result/Test.pm
+t/User/Config/Test/rem.pm
+t/User/Config/Test/Schema.pm
+t/User/Config/Test.pm
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)

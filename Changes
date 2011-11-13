@@ -1,0 +1,7 @@
+Revision history for Perl extension Catalyst::Helper::Model::UserConfig.
+
+0.01_01  Sun Nov 13 18:28:48 2011
+	- split out distribution
+	- original version; created by h2xs 1.23 with options
+		-Xn Catalyst::Helper::Model::UserConfig -v 0.01_01
+
